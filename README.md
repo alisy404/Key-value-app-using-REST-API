@@ -22,5 +22,4 @@ This repository contains the code for a key-value REST API that allows users to 
 - **Express.js**: Web framework for Node.js.
 - **MongoDB**: Database for storing key-value pairs.
 
-## Getting Started
-Instructions for setting up and running the project can be found in the [README.md](README.md) file.
+
